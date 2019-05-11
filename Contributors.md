@@ -22,6 +22,7 @@
 - [Rajeev Joshi](https://github.com/rj-1234)
 - [Nithin Singamsetti](https://github.com/nithinsingamsetti)
 - [Willie Mangram](https://github.com/Williem3)
+- [Andrea Luciano Damico](https://github.com/ALDamico)
 - [Fernando Cueto Rivera](https://github.com/fernastereo)
 - [Nauman Shakir](https://github.com/Nauman3S)
 - [Shreyas Kalyanaraman](https://github.com/ShreyasKraman)
